@@ -1,0 +1,29 @@
+{
+  "nix.enableLanguageServer": true,
+  "nix.serverPath": "rnix-lsp",
+  "peacock.remoteColor": "#0b0b0b",
+  "python.formatting.provider": "black",
+  "search.useGlobalIgnoreFiles": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#242424",
+    "activityBar.activeBackground": "#242424",
+    "activityBar.activeBorder": "#606020",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#606020",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#0b0b0b",
+    "titleBar.inactiveBackground": "#0b0b0b99",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#0b0b0b",
+    "statusBarItem.hoverBackground": "#242424",
+    "statusBar.foreground": "#e7e7e7",
+    "editorGroup.border": "#242424",
+    "panel.border": "#242424",
+    "sash.hoverBorder": "#242424",
+    "sideBar.border": "#242424",
+    "statusBarItem.remoteBackground": "#0b0b0b",
+    "statusBarItem.remoteForeground": "#e7e7e7"
+  }
+}
